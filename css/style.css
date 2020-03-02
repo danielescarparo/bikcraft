@@ -8,6 +8,10 @@ p {
 	line-height: 20px;
 }
 
+img {
+	display: block;
+}
+
 .btn {
 	border: 3px solid #fec63e;
 	padding: 10px 30px;
@@ -91,7 +95,7 @@ p {
 	height:  380px;
 	background: url("../img/bg.jpg") no-repeat center;
 	background-size: cover;
-	margin-top: 96px;
+	margin-top: 92px;
 	text-align: center;
 	padding-top: 80px;
 }
@@ -171,8 +175,31 @@ p {
 	padding-top: 40px;
 	text-align: center;
 	clear: both;
+	padding-bottom: 40px;
 }
 
 .call p {
 	margin-bottom: 20px;
+}
+
+/*Portfolio*/
+.portfolio {
+	width: 100%;
+	background: #000;
+}
+
+.portfolio .subtitulo {
+	color: #fec63e;
+}
+
+.portfolio .subtitulo:after {
+	background: #fec63e;
+}
+
+.portfolio_lista li:last-child {
+	margin-top: 20px;
+}
+
+.portfolio .call p {
+	color: #FFF;
 }
