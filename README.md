@@ -1,5 +1,7 @@
-# bikcraft
+# Bikcraft
 
-This project is available on site Origamid: https://www.origamid.com/
+This project is available on site [Origamid](https://www.origamid.com/)
 
-Course named "Web Design Completo"
+Course in portuguese named "Web Design Completo"
+
+**Summary:** website to buy custom bikes, using html, css and javascript
